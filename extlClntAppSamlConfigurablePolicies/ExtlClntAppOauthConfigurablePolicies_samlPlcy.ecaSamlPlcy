@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtlClntAppSamlConfigurablePolicies xmlns="http://soap.sforce.com/2006/04/metadata">
+    <acsUrl>https://locallhost.com/</acsUrl>
+    <encryptionType>AES_128</encryptionType>
+    <entityUrl>name</entityUrl>
+    <externalClientApplication>ExtlClntAppOauthConfigurablePolicies</externalClientApplication>
+    <label>ExtlClntAppOauthConfigurablePolicies_samlPlcy</label>
+    <nameIdFormat>Unspecified</nameIdFormat>
+    <signingAlgorithmType>SHA1</signingAlgorithmType>
+    <subjectType>Username</subjectType>
+</ExtlClntAppSamlConfigurablePolicies>

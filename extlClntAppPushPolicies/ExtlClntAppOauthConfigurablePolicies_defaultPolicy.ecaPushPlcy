@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtlClntAppPushConfigurablePolicies xmlns="http://soap.sforce.com/2006/04/metadata">
+    <externalClientApplication>ExtlClntAppOauthConfigurablePolicies</externalClientApplication>
+    <isFullContent>false</isFullContent>
+    <label>ExtlClntAppOauthConfigurablePolicies_defaultPolicy</label>
+</ExtlClntAppPushConfigurablePolicies>
